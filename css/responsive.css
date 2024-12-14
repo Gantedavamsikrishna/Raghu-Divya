@@ -1076,6 +1076,7 @@
   .carousel-inner .item img {
     height: 250px;
     margin-top: 3rem;
+    object-fit:cover;
   }
   .carousel-caption .xxss {
     margin-top: 50px !important;
